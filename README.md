@@ -4,6 +4,10 @@ An interactive Python and Streamlit application for analyzing historical stock
 performance, volatility, downside risk, and benchmark relationships using live
 Yahoo Finance data.
 
+## Live Demo
+
+[Launch the Financial Market Volatility & Risk Dashboard](https://financial-risk-dashboard-sylvia.streamlit.app)
+
 ## Live project goal
 
 Instead of using a hard-coded dataset, the dashboard lets a user:
